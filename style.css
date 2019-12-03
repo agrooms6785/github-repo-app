@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.results h2 {
+  text-align: center;
+}
+
+.results {
+  text-align: left;
+}
